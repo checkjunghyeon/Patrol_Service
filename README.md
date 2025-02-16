@@ -92,7 +92,5 @@
 <br>
 
 ## 🎥 데모(결과 시각화)
+![DEMO](docs/Demo.mp4)
 
-https://drive.google.com/file/d/1H9T2nf9TXrzBOGOfMjdpqe6vG-kKKNFC/view?usp=drive_link
-
-https://youtu.be/ePuU-QAGyE0?si=GWp58_hJMNVWl9O5
