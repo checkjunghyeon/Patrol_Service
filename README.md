@@ -92,5 +92,5 @@
 <br>
 
 ## 🎥 데모(결과 시각화)
-![DEMO](docs/Demo.mp4)
+![DEMO](docs/Demo.gif)
 
