@@ -32,7 +32,7 @@
 
 ## ⚙️ 시스템 설계 문서
 
-[**시퀀스 다이어그램**](https://www.notion.so/11e6cf9cb796800b888cd17a197be68b?pvs=21)
+[시퀀스 다이어그램(notion)](https://www.notion.so/11e6cf9cb796800b888cd17a197be68b?pvs=21)
 
 [모듈별 입출력 메시지 형식.xlsx](attachment:101dac3f-0c91-45eb-9e6a-bba872f22102:모듈별_입출력_메시지_형식.xlsx)
 
